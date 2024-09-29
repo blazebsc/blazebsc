@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @blazebsc
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on OSS Projects
+- 📫 How to reach me Signal: blazebsc.69
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: Im Special
