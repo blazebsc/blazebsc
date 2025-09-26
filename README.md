@@ -23,10 +23,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/blazebsc/blazebsc/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/wnoswf157x1166rios7nlqrp0">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=wnoswf157x1166rios7nlqrp0&count=5&unique=true" alt="Spotify recently played"  />
