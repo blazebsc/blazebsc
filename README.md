@@ -20,13 +20,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/wnoswf157x1166rios7nlqrp0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wnoswf157x1166rios7nlqrp0&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
