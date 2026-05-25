@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██████╗ ██╗      █████╗ ███████╗███████╗██████╗ ███████╗ ██████╗
-██╔══██╗██║     ██╔══██╗╚══███╔╝██╔════╝██╔══██╗██╔════╝██╔════╝
-██████╔╝██║     ███████║  ███╔╝ █████╗  ██████╔╝███████╗██║
-██╔══██╗██║     ██╔══██║ ███╔╝  ██╔══╝  ██╔══██╗╚════██║██║
-██████╔╝███████╗██║  ██║███████╗███████╗██████╔╝███████║╚██████╗
-╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝ ╚═════╝
-```
-
 ### hey, i'm Blake, a student from NZ who builds things
 
 [![Website](https://img.shields.io/badge/blake7.eu.org-000000?style=for-the-badge&logo=globe&logoColor=white)](https://blake7.eu.org)
@@ -48,9 +39,7 @@ i'm Blake, aka **blazebsc** — a student from NZ who loves tinkering with code 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blazebsc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=blazebsc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+[![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blazebsc?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)]
 
 </div>
 
