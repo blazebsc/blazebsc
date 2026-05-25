@@ -39,7 +39,7 @@ i'm Blake, aka **blazebsc** — a student from NZ who loves tinkering with code 
 
 <div align="center">
 
-[![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blazebsc?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)]
+![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/blazebsc?cardType=level&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false)
 
 </div>
 
