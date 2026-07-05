@@ -11,7 +11,7 @@
 
 ## who am i?
 
-i'm Blake, aka **blazebsc** — a student from NZ who loves tinkering with code and building things. when i'm not coding i'm probably messing around with servers, breaking things, and figuring out how to fix them (or break them more).
+i'm Blake, aka **blazebsc** a student from NZ who loves tinkering with code and building things. when i'm not coding i'm probably messing around with servers, breaking things, and figuring out how to fix them (or break them more).
 
 - 💻 love building with HTML & CSS
 - 🚀 exploring AI and what it can do
